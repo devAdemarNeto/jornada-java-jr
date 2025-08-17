@@ -363,8 +363,8 @@
 ---
 
 ## 🚀 PORTFOLIO PROGRESS - PROJETOS COMPLETOS
-
-- [ ] **Projeto 1:** Calculadora com Herança (Mês 1)
+- [x] **Projeto 1:** Calculadora simples (Mês 1)
+- [ ] **Projeto 1.2:** Calculadora com Herança (Mês 1)
 - [ ] **Projeto 2:** Sistema Biblioteca com Interfaces (Mês 1)  
 - [ ] **Projeto 3:** E-commerce com Collections (Mês 2)
 - [ ] **Projeto 4:** Analisador de Vendas com Streams (Mês 2)
