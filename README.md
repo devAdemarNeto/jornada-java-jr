@@ -59,8 +59,8 @@
 ## 🏆 Projetos Portfolio
 
 ### ✅ Concluídos
-1. **Calculadora Console** - Java básico com OO
-   - 📂 [Ver código](./mes-1-orientacao-objetos/calculadora-heranca/)
+1 **Calculadora Console** - Java básico com OO
+   - 📂 [Ver código](./mes-1-orientacao-objetos/calculadora-basica/)
    - 🔧 Java, OOP, Scanner
 
 ### 🔄 Em Andamento
