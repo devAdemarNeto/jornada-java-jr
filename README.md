@@ -60,7 +60,7 @@
 
 ### ✅ Concluídos
 1 **Calculadora Console** - Java básico com OO
-   - 📂 [Ver código](./mes-1-orientacao-objetos/calculadora-basica/)
+   - 📂 [Ver código](https://github.com/devAdemarNeto/Calculadora_java)
    - 🔧 Java, OOP, Scanner
 
 ### 🔄 Em Andamento
